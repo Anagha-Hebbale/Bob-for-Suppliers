@@ -22,7 +22,7 @@ features = [
     'Order Item Quantity',
     'Profit Ratio'
 ]
-
+  
 data = df[features].copy()
 
 # Step 4: Handle missing values
