@@ -166,7 +166,7 @@ streamlit run app.py
 - Visual gauge indicator
 - Risk level classification (High/Medium/Low)
 
-### 📅 **Seasonal Trends**
+## 📅 **Seasonal Trends**
 - Monthly order volume trends
 - Day-of-week patterns
 - Peak season identification
