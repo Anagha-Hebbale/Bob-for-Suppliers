@@ -1,7 +1,7 @@
 # Bob-for-Suppliers
 Bob-for-Suppliers is an integrated supply chain intelligence system. The platform leverages data analytics and machine learning to help businesses improve operational efficiency, reduce risks, and optimize their supply chain processes through an interactive Streamlit dashboard.
 
-🎯 Key Features
+🎯 Key Features. 
  1. **Executive Dashboard**
 - Real-time KPIs monitoring
 - Late delivery rate tracking
